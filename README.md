@@ -79,3 +79,8 @@ PWGen::pwByMask($json)
 ~~~~
 
 See example.php for a simple example.
+
+## User Interface
+
+I've included a quickly thrown together UI for PWDGen. You can find it in the "ui"
+directory.
